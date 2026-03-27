@@ -70,7 +70,7 @@ pip install ultralytics opencv-python
 ### Run with webcam:
 
 ```
-python traffic.py
+python main.py
 ```
 
 ---
@@ -88,7 +88,7 @@ cap = cv2.VideoCapture("traffic.mp4")
 4. Run:
 
 ```
-python traffic.py
+python main.py
 ```
 
 ---
