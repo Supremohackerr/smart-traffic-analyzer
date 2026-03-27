@@ -27,7 +27,7 @@ Built with **YOLOv8** and **OpenCV**, this project can analyze video streams or 
 ## 📁 Project Structure
 
 ```
-hand-gesture-controller/
+smart-traffic-analyzer/
 │
 ├── main.py        # Main script
 ├── test_yolo.py   #Testing
@@ -42,7 +42,7 @@ hand-gesture-controller/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/hand-gesture-controller.git
+git clone https://github.com/your-username/smart-traffic-analyzer.git
 cd smart-traffic-analyzer
 ```
 
