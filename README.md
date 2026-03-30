@@ -42,7 +42,7 @@ smart-traffic-analyzer/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/smart-traffic-analyzer.git
+git clone https://github.com/Supremohackerr/smart-traffic-analyzer.git
 cd smart-traffic-analyzer
 ```
 
@@ -79,7 +79,7 @@ python main.py
 
 1. Download a traffic video
 2. Place it in the project folder
-3. Update this line in `traffic.py`:
+3. Update this line in `main.py`:
 
 ```
 cap = cv2.VideoCapture("traffic.mp4")
